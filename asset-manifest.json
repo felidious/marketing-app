@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/marketing-app/static/js/main.3bb1b1a7.chunk.js",
+    "main.js.map": "/marketing-app/static/js/main.3bb1b1a7.chunk.js.map",
+    "runtime-main.js": "/marketing-app/static/js/runtime-main.4bdfeb26.js",
+    "runtime-main.js.map": "/marketing-app/static/js/runtime-main.4bdfeb26.js.map",
+    "static/js/2.4d716412.chunk.js": "/marketing-app/static/js/2.4d716412.chunk.js",
+    "static/js/2.4d716412.chunk.js.map": "/marketing-app/static/js/2.4d716412.chunk.js.map",
+    "index.html": "/marketing-app/index.html",
+    "static/js/2.4d716412.chunk.js.LICENSE.txt": "/marketing-app/static/js/2.4d716412.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/marketing-app/static/media/profile.8a701d40.jpg",
+    "static/media/svg-1.svg": "/marketing-app/static/media/svg-1.c9c88a21.svg",
+    "static/media/svg-2.svg": "/marketing-app/static/media/svg-2.882a2cd5.svg",
+    "static/media/svg-3.svg": "/marketing-app/static/media/svg-3.335c6aa8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4bdfeb26.js",
+    "static/js/2.4d716412.chunk.js",
+    "static/js/main.3bb1b1a7.chunk.js"
+  ]
+}
