@@ -1,12 +1,12 @@
 import React from 'react';
 import { InfoSection } from '../../components';
 import { homeObjOne, homeObjThree } from './Data';
+import Form from '../SignUp/Form/Form'
 
 function SignUp() {
   return (
     <>
-      <InfoSection {...homeObjOne} />
-      <InfoSection {...homeObjThree} />
+      <Form />
     </>
   );
 }
